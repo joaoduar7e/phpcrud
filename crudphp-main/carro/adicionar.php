@@ -9,7 +9,7 @@ $resultado = mysqli_query($connect, $sql);
 <div class="row">
     <div class="col">
 
-        <!-- action no qual o formaluario para processar as informações -->
+        <!-- action no qual o formaluario para processar as informações --->
         <form class="espacamento" action="../php_action/create-carro.php" method="POST">
 
             <h3 class="font-weight-light"> Novo carro</h3>
